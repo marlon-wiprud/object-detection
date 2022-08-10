@@ -5,6 +5,9 @@ YOLO V2 paper: https://arxiv.org/abs/1612.08242
 YOLO V3 paper: https://arxiv.org/abs/1804.02767
 https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/
 https://github.com/pjreddie/darknet
-
+https://github.com/experiencor/keras-yolo3
 ### Weights
 https://pjreddie.com/media/files/yolov3.weights
+
+### Dataset
+https://cocodataset.org/#home
